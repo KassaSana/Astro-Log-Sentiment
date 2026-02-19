@@ -1,4 +1,4 @@
-# Astronaut Log Sentiment Analyzer 🛸
+# Astronaut Log Sentiment Analyzer : ) 
 
 Analyzes sentiment and emotion drift across NASA ISS communications using advanced NLP. 
 Combines two data sources: operational blog posts (NASA comms staff) and personal oral 
