@@ -1,0 +1,38 @@
+# Data files
+data/astro_sentiment.db
+data/raw/
+data/*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# HuggingFace model cache
+.cache/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+docs/DESIGN_DOC_AI.md
